@@ -1,0 +1,1 @@
+My pet cat is very <{> <adjective> .  <}> <#> So is my dog . <#>
